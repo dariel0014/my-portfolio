@@ -1,0 +1,134 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+
+.da{
+	margin:10px;
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	
+}
+.da:hover{
+	border: 4px solid white;
+}
+
+.d{
+	text-align: center;
+	float: right;
+}
+.yuno{
+	width:150px ;
+	height: 150px;
+	border-radius: 50%;
+}
+.yuno:hover{
+	border: 4px solid white;
+}
+h3{
+	font-family: consolas;
+	text-align: center;	
+	color: #2B60DE;
+}
+#ball{
+	margin: 20%;
+}
+.kobe{
+	width:150px ;
+	height: 150px;
+	border-radius: 50%;
+	float: right;
+	
+}
+.kobe:hover{
+	border: 4px solid white;
+}
+#anime{
+	
+	text-align: center;
+}
+
+body{
+	background:linear-gradient(-10deg, #3bb9ff,#82CAFF,#82CAFF,#1F45FC);
+	
+}
+p{
+	text-align: center;
+}
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border: 3px solid #fff;
+	position: absolute;
+	top: 29%;
+	left: 52%;
+	transform: translate(-50%, -50%);
+	padding: 5px 15px;
+	color: white;
+	font-family: consolas;
+}
+h1:hover{
+	border: 5px solid white;
+}
+h4 {	
+	letter-spacing: 2px;
+	border: 3px solid #fff;
+	position: absolute;
+	top: 26%;
+	left: 5.5%;
+	transform: translate(-50%, -50%);
+	padding: 3px 20px;
+	color: white;
+	font-size: 21px;
+	font-family: consolas;
+	
+}
+h4:hover{
+	border: 5px solid white;
+}
+
+.profile{
+	font-family: Consolas;
+	padding: 15%;
+}
+#hob{
+	font-size: 45px;
+	font-family: 'consolas';
+}
+p{
+	font-family: consolas;
+	font-size: 20px;
+	color: white;
+	
+}
+.img-mountain{
+	padding: 10px 0 0 0;
+	margin: 10px 0 0 0;
+}
+.center{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.cloud1{
+	position: relative;
+	left: 300px;
+	float: left;
+}
+.cloud2{
+	position: relative;
+	left: 210px;
+}
+.cloud{
+	position: relative;
+	left: 760px;
+	float: left;
+}
+footer{
+	text-align: center;
+	font-size: 16px;
+	font-family: Times New Roman;
+	color:#1F45FC;
+
+}
